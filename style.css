@@ -1,0 +1,45 @@
+body{
+    margin: 80px 80px;
+    background: #b8b6b6;
+}
+.flex{
+    display: flex;
+}
+.item{
+    align-items: center;
+    gap: 10px;
+}
+.color{
+    color: #555;
+}
+.gap{
+    gap: 100px;
+}
+.size{
+    font-size: 12px;
+    font-weight: 900;
+}
+.c{
+    align-items: center;
+    justify-content: space-between;
+    background: rgba(94,212, 196, 0.4);
+    border-radius: 12px ;
+    padding: 08px;
+}
+.social-icon{
+    gap: 20px;
+}
+.pd{
+    border-radius: 50px;
+}
+.p{
+    font-size: 20px;
+    color: #070707;
+}
+.h{
+    font-size: 16px;
+}
+.colore{
+    background: white;
+    padding: 50px;
+}
